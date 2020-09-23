@@ -1,4 +1,6 @@
-#Quote generator static web app using vannila js.
+#https://sriramNV.github.io/quote-generator
+
+Quote generator static web app using vannila js.
 Used https://forismatic.com API to gather  
 Imported "https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap" from fonts.google.com(GOOGLE FONTS)
 ICONS from fontawesome.com using https://cdnjs.com/libraries/font-awesome
